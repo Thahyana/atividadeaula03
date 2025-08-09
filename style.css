@@ -1,14 +1,19 @@
 body{
+  margin: 5px;
   background-color: rgb(231, 180, 204);
 }
 
 .nome{
   color: rgb(84, 16, 148);
   display: flex;
-  justify-content: space-evenly;
-
+  justify-content: flex-end;
 }
 
 .hr{
   border-color: blueviolet;
+}
+
+.img{
+  height: 150px;
+  border-radius: 50%;
 }
