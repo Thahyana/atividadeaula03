@@ -1,2 +1,2 @@
 # atividadeaula03
-Atividade da terceira aula de programação Full Stack
+Atividade da terceira aula de desenvolvimento Full Stack
